@@ -54,11 +54,11 @@ This project focuses on customer segmentation and data-driven insights to help a
 
 #### 🔹 Performed aggregations to calculate:
 
-   #####  ▫  Total revenue per customer
+    ▫  Total revenue per customer
 
-   #####  ▫  Purchase frequency
+    ▫  Purchase frequency
 
-   #####  ▫  Recency of last order
+    ▫  Recency of last order
 
 #### 🔹 Validated data transformations performed during EDA.
 
@@ -76,13 +76,13 @@ This project focuses on customer segmentation and data-driven insights to help a
 
 #### 🔹 Built an interactive dashboard to explore:
 
-##### ▫ Customer segments
+    ▫ Customer segments
 
-##### ▫ Revenue contribution
+    ▫ Revenue contribution
 
-##### ▫ Purchase trends
+    ▫ Purchase trends
 
-##### ▫ Retention and churn risks
+    ▫ Retention and churn risks
 
 #### 📊 Dashboard Preview
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/62b0e305-8252-47d3-b412-73bb975bdeec" />
