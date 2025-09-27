@@ -54,11 +54,11 @@ This project focuses on customer segmentation and data-driven insights to help a
 
 #### 🔹 Performed aggregations to calculate:
 
-#####  ▫  ** Total revenue per customer ** 
+    #####  ▫  Total revenue per customer
 
-#####  ▫  ** Purchase frequency ** 
+    #####  ▫  Purchase frequency
 
-#####  ▫  ** Recency of last order ** 
+    #####  ▫  Recency of last order
 
 #### 🔹 Validated data transformations performed during EDA.
 
